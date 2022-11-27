@@ -1,4 +1,7 @@
 # Smart-Combat-Helmet
+
+![image](https://user-images.githubusercontent.com/63203988/204125881-af820e8b-c23e-4855-af1f-fd5c15245776.png)
+
 “Modern Combat Smart Device : For Indian Army”
  Helmets are among the oldest forms of personal protective equipment and are known to have been worn by the Akkadians/Sumerians in the 23rd century BC. 
 	The Advanced Combat Helmet (ACH) is the United States Army's current combat helmet, used since the early 2000s. It was developed by the United States Army Soldier Systems Center.
