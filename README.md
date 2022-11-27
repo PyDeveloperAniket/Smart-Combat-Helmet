@@ -9,3 +9,5 @@
 
           By all this Our Soldier can spot long distance enemy easily. In foggy weather as well in smoke they can see clearly. At night the enemy will spot instantly and they can see with the zoom function.
 	It is going to be more reliable and helpful for the Soldier.
+
+![image](https://user-images.githubusercontent.com/63203988/204125862-420e0aeb-82e8-4553-a2c1-6d431a8bc229.png)
